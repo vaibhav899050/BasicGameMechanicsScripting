@@ -5,7 +5,7 @@ using UnityEngine;
 public class animation : MonoBehaviour
 {
     Animator animator;
-    bool isseated = false;
+    bool isseated = false 
 
     // Start is called before the first frame update
     void Start()

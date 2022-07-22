@@ -5,7 +5,7 @@ using UnityEngine;
 public class changeposition : MonoBehaviour
 {
     [SerializeField] GameObject player = null;
-    [SerializeField] GameObject cycle = null;
+    [SerializeField] GameObject cycle = null
     // Start is called before the first frame update
     void Start()
     {
